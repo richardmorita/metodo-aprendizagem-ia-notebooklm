@@ -156,7 +156,9 @@ A principal habilidade desenvolvida neste projeto foi a capacidade de fazer perg
 
 ## 🔗 Link do Projeto
 
-https://github.com/richardmorita/metodo-aprendizagem-ia-notebooklm/
+* Repositório: https://github.com/richardmorita/metodo-aprendizagem-ia-notebooklm/
+* Flashcards: https://notebooklm.google.com/notebook/f517aaaa-da69-49a4-9494-677f6ffa1879?artifactId=b6486d1c-2a9b-4b67-b3ba-b45a9c6919f2/
+* Infográfico: https://notebooklm.google.com/notebook/f517aaaa-da69-49a4-9494-677f6ffa1879?artifactId=61cf4743-c97b-4376-a903-cb829a05e8df/
 
 ---
 
