@@ -13,7 +13,7 @@ Aprenda mais rápido usando Inteligência Artificial com um método prático bas
 
 ## 🎯 Contexto e Objetivos
 
-Com o avanço da Inteligência Artificial, surgem novas possibilidades para otimizar o processo de aprendizagem. Este projeto tem como objetivo explorar como ferramentas de IA podem ser utilizadas como suporte ativo no estudo, indo além do consumo passivo de conteúdo.
+Com o avanço da Inteligência Artificial, surgem novas possibilidades para otimizar o processo de aprendizagem. A aprendizagem acelerada moderna consolidou-se como uma disciplina onde a personalização em massa e a análise preditiva convergem para otimizar a retenção do saber. Este projeto tem como objetivo explorar como ferramentas de IA podem ser utilizadas como suporte ativo no estudo, indo além do consumo passivo de conteúdo.
 
 ### Objetivos:
 
@@ -26,13 +26,13 @@ Com o avanço da Inteligência Artificial, surgem novas possibilidades para otim
 
 ## 📚 Curadoria de Fontes
 
-| Fonte        | Tipo          | Link                                                                                                           |
-| ------------ | ------------- | -------------------------------------------------------------------------------------------------------------- |
-| Coursera     | Artigo        | [https://www.coursera.org/articles/what-is-ai-learning](https://www.coursera.org/articles/what-is-ai-learning) |
-| Stanford HAI | Pesquisa      | [https://hai.stanford.edu](https://hai.stanford.edu)                                                           |
-| Edutopia     | Educacional   | [https://www.edutopia.org](https://www.edutopia.org)                                                           |
-| Khan Academy | Plataforma    | [https://www.khanacademy.org](https://www.khanacademy.org)                                                     |
-| UNESCO       | Institucional | [https://www.unesco.org](https://www.unesco.org)                                                               |
+| Fonte | Tipo | Acesso |
+|---|---|---|
+| **The Effectiveness of AI-Driven Tools in Improving Student Learning Outcomes Compared to Traditional Methods** | Artigo Científico | [Acessar fonte](https://doi.org/10.48009/4_iis_2025_120) |
+| **Enhance Active Recall Efficiency Using AI Tools** | Guia Educacional | [Acessar fonte](https://www.atlas.org/blog/artificial-intelligence/enhance-active-recall-efficiency-using-ai-tools) |
+| **What Is Spaced Repetition? The Science of Lasting Memory** | Artigo de Blog | [Acessar fonte](https://nuton.app/blog/what-is-spaced-repetition-and-how-it-works) |
+| **Gemini Deep Think: Redefining the Future of Scientific Research** | Pesquisa Científica | [Acessar fonte](https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/) |
+| **5 ways to integrate GitHub Copilot coding agent into your workflow** | Artigo Técnico | [Acessar fonte](https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/) |                                                       |
 
 **Critérios de escolha:**
 
@@ -79,24 +79,27 @@ Com o avanço da Inteligência Artificial, surgem novas possibilidades para otim
 
 ### 🎓 2. Técnica de Feynman
 
-* Pedir explicações simples
+* Usar a IA configurada para atuar como um "estudante novato e curioso" e pedir explicações simples
 * Reexplicar com suas próprias palavras
-* Identificar lacunas de entendimento
+* Identificar lacunas de entendimento através de perguntas de sondagem feitas pela IA
 
-### 🔁 3. Revisão Inteligente
+
+### 🔁 3. Revisão Inteligente (Repetição Espaçada)
 
 * Criar resumos automáticos
-* Gerar perguntas para revisão
-* Simular testes
+* Automatizar Sistemas de Repetição Espaçada agendando revisões para o momento de "dificuldade desejável"
+* Gerar perguntas variadas para revisão com LLMs, evitando memorizar respostas cegas
+* Simular testes para fortalecer vias neurais
 
 ---
 
 ## 🧾 Glossário
 
-* **IA:** Sistemas capazes de simular inteligência humana
-* **Prompt:** Instrução dada à IA
-* **Feynman:** Método de aprender explicando
-* **Revisão espaçada:** Técnica de revisão em intervalos
+* **IA:** Sistemas capazes de simular inteligência humanae personalizar o ensino de forma dinâmica
+* **Prompt:** Instrução dada à IA. Na educação, serve para transformá-la de geradora de textos em tutora pedagógica
+* **Feynman:** Método de aprender explicando conceitos complexos em termos simples
+* **Revisão espaçada:** Técnica de revisão em intervalos baseada na curva do esquecimento
+
 
 ---
 
@@ -144,7 +147,8 @@ Sinta-se à vontade para sugerir melhorias ou adaptar este método para outros t
 
 ## 🚀 Conclusão
 
-A Inteligência Artificial não substitui o aprendizado humano, mas potencializa drasticamente a forma como adquirimos conhecimento.
+A Inteligência Artificial não substitui o aprendizado humano, mas potencializa drasticamente a forma como adquirimos conhecimento, funcionando como um multiplicador de força.
+
 
 A principal habilidade desenvolvida neste projeto foi a capacidade de fazer perguntas melhores — fator essencial para obter respostas de qualidade.
 
@@ -152,7 +156,7 @@ A principal habilidade desenvolvida neste projeto foi a capacidade de fazer perg
 
 ## 🔗 Link do Projeto
 
-(Adicione aqui o link do seu repositório)
+https://github.com/richardmorita/metodo-aprendizagem-ia-notebooklm/
 
 ---
 
